@@ -1,17 +1,16 @@
 {
-    "name": "spatie/unit-conversions",
+    "name": "mansuang/unit-conversions",
     "description": "Unit Conversions",
     "keywords": [
-        "spatie",
+        "mansuang",
         "unit-conversions"
     ],
-    "homepage": "https://github.com/spatie/unit-conversions",
+    "homepage": "https://github.com/mansuang/unit-conversions",
     "license": "MIT",
     "authors": [
         {
             "name": "Mansuang",
             "email": "mansaung@hotmail.com",
-            "homepage": "https://spatie.be",
             "role": "Developer"
         }
     ],
