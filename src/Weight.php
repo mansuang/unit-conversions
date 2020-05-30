@@ -1,15 +1,13 @@
 <?php
 
 namespace Mansuang\UnitConversions;
-use DeepCopy\Exception;
 
 class Weight
 {
     private $kilograms;
 
-    public static function fromKilograms(float $kilograms): self {
-
-
+    public static function fromKilograms(float $kilograms): self
+    {
         return new static($kilograms);
     }
 
