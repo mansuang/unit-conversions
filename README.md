@@ -28,7 +28,7 @@ composer require spatie/unit-conversions
 ## Usage
 
 ``` php
-$skeleton = new Spatie\Skeleton();
+$skeleton = new Mansuang\UnitConversions();
 echo $skeleton->echoPhrase('Hello, Spatie!');
 ```
 
